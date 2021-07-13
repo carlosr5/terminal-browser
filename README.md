@@ -1,4 +1,4 @@
-# Terminal Browser
+<h1>Terminal Browser</h1>
 <h2>Pre-Intro Setup to Run</h2>
 Clone the repository, then type `make clean all` to make the object files and `./browser` to run the program. You interact with the program in the same terminal you run the commands in.
 <h2>Introduction and Purpose</h2>
