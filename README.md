@@ -20,7 +20,6 @@ I haven't finished this project at the time of writing this (as I've yet to do P
   <ul style="padding-left:20px">
     <li>Bit Manipulation</li>
   </ul>
-  <li>Page Rank Algorithm</li>
   <li>Object Oriented Programming</li>
   <li>File Database</li>
   <ul style="padding-left:20px">
