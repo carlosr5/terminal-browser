@@ -1,6 +1,7 @@
 CPP = g++
-CPPFLAGS = -g -Wall -fmax-errors=2 -std=c++11
+CPPFLAGS = -g -Wall -ferror-limit=2 -std=c++11 
 OBJS = browser.o user.o page.o sha.o database.o
+# -fmax-error for g++, -ferror-limit for clang
 
 all: browser
 
